@@ -1,0 +1,4 @@
+#ifndef GLOBAL_DEFINE_H
+#define GLOBAL_DEFINE_H
+
+#endif // GLOBAL_DEFINE_H
